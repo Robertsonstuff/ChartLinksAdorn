@@ -8,4 +8,4 @@ You'll find:
 3)PNG picture file for the chart.
 
 Hopefully this could help you in your coding or muscial journey :)
-
+!(https://octodex.github.com/images/AdornSnip.png)
