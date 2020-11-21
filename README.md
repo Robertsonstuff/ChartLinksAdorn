@@ -8,4 +8,5 @@ You'll find:
 3)PNG picture file for the chart.
 
 Hopefully this could help you in your coding or muscial journey :)
-!(https://github.com/Robertsonstuff/ChartLinksAdorn/blob/main/AdornSnip.PNG)
+
+![What to expect](https://github.com/Robertsonstuff/ChartLinksAdorn/blob/main/githubMetronomePic.PNG)
